@@ -16,6 +16,7 @@
   <tr><td>🟢 <b>مساعد</b></td><td>بوت ديسكورد للحماية والتذاكر والإدارة</td></tr>
   <tr><td>🟢 <b>لوحة التحكم</b></td><td>كل إعدادات البوت من المتصفح</td></tr>
   <tr><td>🟢 <b><a href="https://github.com/musaed-dev/Musaed-Web">الموقع</a></b></td><td>musaed.dev، وكوده مفتوح</td></tr>
+  <tr><td>🧪 <b><a href="https://github.com/musaed-dev/GorillaHurouf">غوريلا حروف</a></b></td><td>مكتبة تخلي العربي يطلع صح في مودات Gorilla Tag</td></tr>
   <tr><td>🧪 <b>تجارب</b></td><td>أشياء نجرّبها بعيد عن ديسكورد، تنزل هنا أول</td></tr>
 </table>
 </div>
